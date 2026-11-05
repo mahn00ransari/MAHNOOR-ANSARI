@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>Mahnoor Ansari | Designer. Developer. Artist.</title><meta content="Mahnoor Ansari — computer student, aspiring developer, portrait artist and art teacher in Karachi. Exploring C++, Java, Python, web projects, art and future study abroad." name="description"/><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&amp;family=Inter:wght@300;400;600&amp;display=swap" rel="stylesheet"/><style>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/ | Designer. Developer. Artist.</title><meta content="Mahnoor Ansari — computer student, aspiring developer, portrait artist and art teacher in Karachi. Exploring C++, Java, Python, web projects, art and future study abroad." name="description"/><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&amp;family=Inter:wght@300;400;600&amp;display=swap" rel="stylesheet"/><style>
 :root{--bg:#0e0e0e;--p:#171717;--t:#f1ece1;--m:#9a958a;--g:#c9a96a;--l:rgba(241,236,225,.12)}
 *{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--t);font:300 1rem/1.7 Inter,system-ui,sans-serif}
