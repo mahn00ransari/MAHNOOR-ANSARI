@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Mahnoor Ansari | Designer. Developer. Artist.</title>
 <meta name="description" content="Mahnoor Ansari: portrait artist, art teacher, graphic designer and web developer from Karachi.">
